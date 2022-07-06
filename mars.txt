@@ -5,3 +5,5 @@ Mars is the 2nd largest planet
 The planet is big
 
 Mars is round
+
+Mars is red
